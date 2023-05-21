@@ -1,0 +1,210 @@
+ body {
+    text-align: center;
+    font-family: 'Montserrat', serif;
+    background-color: #40394A;
+ }
+
+ .navbar {
+    background-color: #A31ACB;
+ }
+
+p {
+    color: EAEAEA;
+}
+
+
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    line-height: 1;
+    color: FF2E63;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: FF2E63;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: FF2E63;
+}
+
+.top-container {
+     top: 100px;
+     background-color: #40394A;
+     position: relative;
+     padding-top: 200px;
+     padding-bottom: 200px;
+ }
+
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+    bottom: 30rem;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 10rem;
+    top: 10rem;
+}
+
+.middle-container {
+    margin: 100px 0 0px 0;
+    padding-top: 80px;
+    background-color: #40394A;
+}
+
+/*.profile-detail {
+
+
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    border: 2px solid #999;
+}
+*/
+.utdanning-container {
+    padding: 50px;
+    background-color: #40394A;
+    text-align: center;
+}
+
+.arbeid-container {
+    padding-top: 100px;
+}
+
+.lastp {
+    width: 35%;
+    margin: 40px auto 60px;
+}
+
+#profile {
+    width: 70%;
+    margin: 0px auto 300px auto;
+    padding-top: 100px;
+    text-align: left;
+    line-height: 2;
+
+}
+
+
+
+.main-profile {
+    float: left;
+    margin-right: 100px;
+}
+
+.email {
+    color: white;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.intro {
+    width: 120%;
+    margin: auto auto;
+    font-size: 20px;
+}
+
+.skills {
+    padding: 200px 0 0 0px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 10px auto 80px auto;
+    padding-top: 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.codingicon {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+.gundamicon {
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+}
+
+.bottom-container {
+    background-color: #E84545;
+    margin-top: 15rem;
+    padding: 30px  20px;
+}
+
+
+
+.footer-link {
+    margin: 10px 20px;
+    color: #3F4E4F;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.work-list {
+    top: 100px;
+    background-color: #3F4E4F;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 180px;
+}
+
+.education {
+    top: 100px;
+    background-color: #3F4E4F;
+    position: relative;
+    padding-top: 200px;
+    padding-bottom: 180px;
+}
+
+.edu-row {
+    width: 80%;
+    margin: 0px auto 100px auto;
+    background-color: #A27B5C;
+    font-size: 19px;
+    text-align: left;
+    line-height: 2.5;
+}
+
+.edu-list {
+    font-size: 25px;
+    color: #a37a57;
+    line-height: 2.5;
+    padding-top: 50px;
+}
+
+.edu-detail {
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    line-height: 2;
+}
+
+.under-list {
+    margin-top: 300px;
+    margin-bottom: 100px;
+    border-color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    color: #eaf6f6;
+    visibility: hidden;
+}

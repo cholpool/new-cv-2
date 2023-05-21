@@ -1,0 +1,33 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    padding: 2rem 15rem;
+    background-color: #eaf6f6;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 4rem;
+}
+
+input {
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+
+    width: 50%;
+    height: 50px;
+
+    padding: 20px;
+    margin-bottom: 24px;
+    
+    font-size: 20px;
+
+}
+
+input:focus {
+    outline: none;
+}
